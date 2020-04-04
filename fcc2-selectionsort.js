@@ -1,5 +1,5 @@
+//Iterates through array, puts minimum at the front. Continues with i+1, end of arrray 
 function selectionSort(array) {
-  // change code below this line
   for(let i = 0; i < array.length; i++){
     let min = array[i];
     let minIndex = i;
@@ -14,7 +14,6 @@ function selectionSort(array) {
     array[minIndex] = temp;
   }
   return array;
-  // change code above this line
 }
 
 
