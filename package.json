@@ -1,0 +1,20 @@
+{
+  "name": "algs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fcc1-bubblesort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlangy/algs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlangy/algs/issues"
+  },
+  "homepage": "https://github.com/jlangy/algs#readme"
+}
