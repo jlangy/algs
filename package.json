@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jlangy/algs/issues"
   },
-  "homepage": "https://github.com/jlangy/algs#readme"
+  "homepage": "https://github.com/jlangy/algs#readme",
+  "dependencies": {
+    "yargs": "^16.0.3"
+  }
 }
